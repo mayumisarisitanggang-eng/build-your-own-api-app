@@ -33,5 +33,5 @@ Ganti isi `App.js` dengan kode dari repo ini, lalu scan QR di Expo Go.
 React Native · Expo SDK 54 · FakeStore API · AsyncStorage
 
 ## Link
-- GitHub: 
+- GitHub: https://github.com/mayumisarisitanggang-eng/build-your-own-api-app.git
 - Expo Snack:https://snack.expo.dev/@maayumi.s/build-your-own-api-app?platform=web
